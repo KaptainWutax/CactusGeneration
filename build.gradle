@@ -1,0 +1,9 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "org.lwjgl.lwjgl:lwjgl:2.9.3"
+}
