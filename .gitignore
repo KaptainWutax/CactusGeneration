@@ -1,0 +1,10 @@
+
+gradle/wrapper/
+
+\.gradle/
+
+\.idea/
+
+out/
+
+*.iml
